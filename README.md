@@ -20,16 +20,6 @@ Google Material Icons
 Dictionary API
 
 
- Project Structure
-bash
-Copy
-Edit
-.
-├── index.html        # Main HTML file
-├── style.css         # Styling for the app
-└── index.js          # Main JavaScript logic
-
-
  Setup Instructions
 Clone the repository or download the ZIP.
 Open index.html in your browser.
